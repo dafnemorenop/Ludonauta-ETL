@@ -9,7 +9,6 @@ Este repositorio contiene diversos scripts y datos relacionados con el proyecto 
 - `ludonauta_to_airtable.ipynb`: Script para enviar datos a Airtable.
 - `ludonauta_from_airtable.ipynb`: Script para recibir datos de Airtable.
 - `ludonauta_analisis.ipynb`: Script para análisis de datos.
-- `geckodriver.log`: Archivo de log de Geckodriver.
 - `juegos_ludonauta.csv`, `precios_limpios.csv`, etc.: Datos CSV usados en los scripts.
 
 ## Instalación
