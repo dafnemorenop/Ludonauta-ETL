@@ -22,11 +22,15 @@ Este proyecto se centra en el análisis exhaustivo de datos extraídos de Ludona
 ## Instalación
 
 Asegúrate de tener las siguientes librerías instaladas:
-- `pandas`
-- `requests`
-- `beautifulsoup4`
-- `selenium`
-- etc.
+- `beautifulsoup4` (para web scraping con BeautifulSoup)
+- `selenium` (para automatización de navegadores)
+- `numpy` (para operaciones numéricas)
+- `pandas` (para manipulación y análisis de datos)
+- `requests` (para realizar peticiones HTTP)
+- `matplotlib` (para visualización de datos)
+- `seaborn` (para visualización de datos estadísticos)
+- `plotly` (para visualización interactiva de datos)
+- `scipy` (para operaciones científicas y estadísticas)
 
 ## Uso
 
