@@ -2,6 +2,14 @@
 
 Este repositorio contiene diversos scripts y datos relacionados con el proyecto Ludonauta.
 
+## Descripción
+
+Análisis Exploratorio de Datos en Ludonauta: Extracción, Transformación y Análisis de Datos de Juegos de Mesa, incluyendo la limpieza y preprocesamiento de los mismos.
+
+## Objetivo
+
+Este proyecto se centra en el análisis exhaustivo de datos extraídos de Ludonauta, una web dedicada a juegos de mesa. Incluye la extracción, transformación, limpieza y preprocesamiento de datos, con el objetivo de obtener información valiosa sobre el comportamiento de los usuarios, identificar características clave de los juegos y descubrir patrones en la comunidad de jugadores. El análisis busca proporcionar una comprensión más profunda del mercado de juegos de mesa y sus usuarios.
+
 ## Archivos
 
 - `ludonauta_web_scraping.ipynb`: Script para scraping web.
