@@ -19,19 +19,13 @@ Este proyecto se centra en el análisis exhaustivo de datos extraídos de Ludona
 - `ludonauta_analisis.ipynb`: Script para análisis de datos.
 - `juegos_ludonauta.csv`, `precios_limpios.csv`, etc.: Datos CSV usados en los scripts.
 
-## Instalación
-
-Asegúrate de tener las siguientes librerías instaladas:
-- `beautifulsoup4` (para web scraping con BeautifulSoup)
-- `selenium` (para automatización de navegadores)
-- `numpy` (para operaciones numéricas)
-- `pandas` (para manipulación y análisis de datos)
-- `requests` (para realizar peticiones HTTP)
-- `matplotlib` (para visualización de datos)
-- `seaborn` (para visualización de datos estadísticos)
-- `plotly` (para visualización interactiva de datos)
-- `scipy` (para operaciones científicas y estadísticas)
-
 ## Uso
 
 Sigue las instrucciones en los notebooks para ejecutar los scripts.
+
+## Instalación de librerías
+
+Para ejecutar los scripts en este proyecto, asegúrate de tener instaladas las librerías que aparecen en `requirements.txt`. Puedes instalarlas todas ejecutando el siguiente comando:
+
+```bash
+pip install -r requirements.txt
