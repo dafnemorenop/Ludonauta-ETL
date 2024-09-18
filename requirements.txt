@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.0    # Para web scraping con BeautifulSoup.
+selenium==4.12.0          # Para automatización de navegadores.
+numpy==1.26.4             # Para operaciones numéricas.
+pandas==2.2.1             # Para manipulación y análisis de datos.
+requests==2.31.0          # Para realizar peticiones HTTP.
+matplotlib==3.8.3         # Para visualización de datos.
+seaborn==0.12.2           # Para visualización de datos estadísticos.
+plotly==5.20.0            # Para visualización interactiva de datos.
+scipy==1.11.3             # Para operaciones científicas y estadísticas.
